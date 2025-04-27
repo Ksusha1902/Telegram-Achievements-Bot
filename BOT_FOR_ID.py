@@ -2,7 +2,7 @@ import asyncio
 from aiogram import Bot, Dispatcher, types
 from aiogram.filters import Command
 
-bot = Bot(token='7332810093:AAEEnFD4_REip3J3sCOZ5qrZEU2Fm3TKH44')
+bot = Bot(token='YOUR BOT ID')
 dp = Dispatcher()
 async def on_startup():
     print('Bot launched successfully.')
