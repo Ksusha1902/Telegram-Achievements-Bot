@@ -4,9 +4,9 @@ from aiogram import Bot, Dispatcher, types, F
 from aiogram.filters import Command
 
 winners = {}
-bot = Bot(token='7906801623:AAGXsiNyKwz4yYSZNOf5W6CWI1LcB4qei94')
+bot = Bot(token='YOUR BOT ID')
 dp = Dispatcher()
-my_id=5123017159
+my_id=YOUR ID
 for_definite = []
 lst_file_id_for1 = ['AgACAgIAAxkBAAIDg2fY-tdCl3MZkCXR0IL-yPkqo1AKAAKY7TEbqIHJSgRww7R6dpLGAQADAgADeAADNgQ','AgACAgIAAxkBAAIL7mfoELsQXJY_R7OeNl-WhFoB_To7AAIv8DEbo5RAS3reHOxbXuepAQADAgADeAADNgQ']
 lst_file_id_for2 = ['AgACAgIAAxkBAAIVIWf03IDJPu5Ne1YZHG1_7TbvwsjjAAJc7TEblm6pS2kHKjBHwiN8AQADAgADeQADNgQ' ]
